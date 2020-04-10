@@ -1,0 +1,27 @@
+.flax{
+    display: none;
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    position: absolute;
+    left: 200px;
+    top: 200px;
+    color: black;
+
+}
+.flexc{
+    width: 100px;
+    height: 100px;
+    left: 400px;
+    top: 400px;
+    position: absolute;
+    background-color: blue;
+    color: chartreuse;
+    display: none;
+}
+.bt{
+    color: red;
+}
+.bt1{
+    color: blue;
+}
